@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Automation testing
 - 💞️ I’m looking to collaborate on QA projects related to softwares
 - 📫 How to reach me 
-      Gamil: Mahamsultan41@gmail.com
+      Gmail: Mahamsultan41@gmail.com
       LinkedIN: https://www.linkedin.com/in/maham-sultan-janjua-6086bb13b/
 
 <!---
